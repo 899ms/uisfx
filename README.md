@@ -177,6 +177,16 @@ UI SFX stays free, open, and maintained thanks to its sponsors. [Sponsor UI SFX 
 
 <p align="center"><!-- sponsors-sponsor --><sub>Become the first <a href="https://github.com/sponsors/romainsimon">Sponsor</a>.</sub><!-- sponsors-sponsor --></p>
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=romainsimon%2Fuisfx&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=romainsimon/uisfx&type=date&theme=dark&legend=bottom-right&sealed_token=OoDhXCZ4ONGXq4Zzx29kypQyE44toKKfYUlyyMBR6Eir979s5GZtkS1cu90g8EcIaw6VP9tSjC0Wdkoc_-GIkMW7m8CwIwWdOMzW6RK2Moe1nVn10UDO9A" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=romainsimon/uisfx&type=date&legend=bottom-right&sealed_token=OoDhXCZ4ONGXq4Zzx29kypQyE44toKKfYUlyyMBR6Eir979s5GZtkS1cu90g8EcIaw6VP9tSjC0Wdkoc_-GIkMW7m8CwIwWdOMzW6RK2Moe1nVn10UDO9A" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=romainsimon/uisfx&type=date&legend=bottom-right&sealed_token=OoDhXCZ4ONGXq4Zzx29kypQyE44toKKfYUlyyMBR6Eir979s5GZtkS1cu90g8EcIaw6VP9tSjC0Wdkoc_-GIkMW7m8CwIwWdOMzW6RK2Moe1nVn10UDO9A" />
+ </picture>
+</a>
+
 ## Contributing
 
 Issues and focused pull requests are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before changing the taxonomy or synthesis recipes; a new cue must work in all twelve packs and keep a visible or haptic counterpart.
